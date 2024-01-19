@@ -4,7 +4,7 @@ const FunctionalitiesTicket = (): JSX.Element => {
       <button className="text-sm font-bold px-4 py-2 rounded-lg bg-neutral-600 hover:bg-blue-800 text-white transition-colors duration-300 ease-in-out">
         Editar
       </button>
-      <button className="text-sm font-bold px-4 py-2 rounded-lg  bg-neutral-600 hover:bg-blue-800 text-white transition-colors duration-300 ease-in-out">
+      <button className="text-sm font-bold px-4 py-2 rounded-lg  bg-neutral-600 hover:bg-green-800 text-white transition-colors duration-300 ease-in-out">
         Habilitar
       </button>
       <button className="text-sm font-bold px-4 py-2 rounded-lg border  bg-neutral-800 hover:bg-red-800 text-white transition-colors duration-300 ease-in-out">

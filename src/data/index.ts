@@ -154,7 +154,7 @@ export const data: Tickets[] = [
     UsuarioGestionandoTick: 'soporte3',
     Estado: true,
     UsuarioRealizoTick: 'developer',
-    Habilitado: false,
+    Habilitado: true,
     DescripcionProblema: 'No se reciben notificaciones de nuevos mensajes',
     Id: 12,
     Observaciones:
