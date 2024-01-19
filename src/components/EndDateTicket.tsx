@@ -6,7 +6,10 @@ const EndDateTicket = ({ endDate }: Props): JSX.Element => {
   return (
     <div>
       <p className="font-semibold">
-        Finalizacion: <span>{endDate?.toLocaleString().split(',')[0]}</span>
+        Finalizacion:{' '}
+        <span className="font-light">
+          {endDate?.toLocaleString().split(',')[0]}
+        </span>
       </p>
     </div>
   )
